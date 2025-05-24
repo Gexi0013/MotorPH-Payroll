@@ -15,21 +15,6 @@ It has features for tracking employee attendance, government deductions, and pay
 - Repository: https://github.com/Gexi0013/MotorPH-Payroll
 - Mentor Email: anunang@mmdc.mcl.edu.ph added as collaborator  
 
-## Class Diagram
-
-
-![image (1)](https://github.com/user-attachments/assets/94731670-24d5-4d55-b836-18b3aa26bc1e)
-
-
-
-## GUI Practice
-![Screenshot 2025-05-24 154109](https://github.com/user-attachments/assets/22912a46-2623-4954-933d-f8463541e008)
-
-
-
-
-
-
 ## Features
 
 - Calculates gross salary based on hours worked
