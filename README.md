@@ -84,6 +84,12 @@ The code lacks:
   3. Payroll Calculator    (Auto-compute)
   4. Data Storage          (Save/Load)
 
+## CRUD Operations
+   Create: Add new employees
+   Read: View all employees
+   Update: Modify existing records
+   Delete: Remove employees
+  
 ## MO-IT103 - Computer Programming 2
 Term 3  SY 2024 - 25  Bachelor of Science in Information Technology  S1102
 Group Team Pochi - 
