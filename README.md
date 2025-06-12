@@ -26,7 +26,7 @@ It has features for tracking employee attendance, government deductions, and pay
 The code lacks:
     - Proper employee record managenment (create/view)
     - Data persistence (it doesn`t save records between runs)
-    - Procer class strcture for employees
+    - Proper class structure for employees
     - Database or file storage integration
 
 # Key Improvements:
