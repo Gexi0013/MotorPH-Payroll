@@ -17,17 +17,10 @@ It has features for tracking employee attendance, government deductions, and pay
 
 ## Class Diagram
 
-
 ![image (1)](https://github.com/user-attachments/assets/94731670-24d5-4d55-b836-18b3aa26bc1e)
-
-
-
 
 ## GUI Practice
 ![Screenshot 2025-05-24 154109](https://github.com/user-attachments/assets/22912a46-2623-4954-933d-f8463541e008)
-
-
-
 
 # Missing Features
 The code lacks:
@@ -85,10 +78,10 @@ The code lacks:
   4. Data Storage          (Save/Load)
 
 ## CRUD Operations
-   Create: Add new employees
-   Read: View all employees
-   Update: Modify existing records
-   Delete: Remove employees
+     Create: Add new employees
+     Read: View all employees
+     Update: Modify existing records
+     Delete: Remove employees
   
 ## MO-IT103 - Computer Programming 2
 Term 3  SY 2024 - 25  Bachelor of Science in Information Technology  S1102
