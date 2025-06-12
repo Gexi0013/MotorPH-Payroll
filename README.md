@@ -16,25 +16,18 @@ It has features for tracking employee attendance, government deductions, and pay
 - Mentor Email: anunang@mmdc.mcl.edu.ph added as collaborator  
 
 ## Class Diagram
-
-
 ![image (1)](https://github.com/user-attachments/assets/94731670-24d5-4d55-b836-18b3aa26bc1e)
-
-
 
 
 ## GUI Practice
 ![Screenshot 2025-05-24 154109](https://github.com/user-attachments/assets/22912a46-2623-4954-933d-f8463541e008)
 
-
-
-
 # Missing Features
 The code lacks:
-  - Proper employee record managenment (create/view)
-  - Data persistence (it doesn`t save records between runs)
-  - Procer class strcture for employees
-  - Database or file storage integration
+    - Proper employee record managenment (create/view)
+    - Data persistence (it doesn`t save records between runs)
+    - Procer class strcture for employees
+    - Database or file storage integration
 
 # Key Improvements:
   1. Employee Record Management:
