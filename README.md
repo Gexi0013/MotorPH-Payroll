@@ -16,7 +16,6 @@ It has features for tracking employee attendance, government deductions, and pay
 - Mentor Email: anunang@mmdc.mcl.edu.ph added as collaborator  
 
 ## Class Diagram
-
 ![image (1)](https://github.com/user-attachments/assets/94731670-24d5-4d55-b836-18b3aa26bc1e)
 
 ## GUI Practice
@@ -48,34 +47,33 @@ The code lacks:
 ## MotorPH Employee Application with View and Create Record Functionalities
 
 ## New Updated Features
-
-* Employee Record Management
+# Employee Record Management
   - Create Employees: ID, Position, Department
   - View all employees record
   - Persistent storage to employee.dat file
 
-* Enhanced Time Tracking
+# Enhanced Time Tracking
   - Daily Attendance: Record time-in/time-out for each workday (Mon-Fri)
   - Auto-Calculation: Computes worked hours/minutes per day.
     
-* Payroll Processing
+# Payroll Processing
    Automatic Calculations:
-    + Gross Salary (Hourly rate: P142.86)
+     + Gross Salary (Hourly rate: P142.86)
     + Allowances (rice, phone, clothing)
     + Deductions (SSS, PhilHealth, Pag-IBIG, Tax)
     + Net pay calculation
 
-* Generates a payslip with:
+# Generates a payslip with:
   - Employee details
   - Breakdown of earnings and deductions
   - Net pay calculation
   - Date and time stamp
 
 ## Structure Summary
-  1. Employee Management   (Create/View)
-  2. Time Tracking         (Daily logs)
-  3. Payroll Calculator    (Auto-compute)
-  4. Data Storage          (Save/Load)
+    1. Employee Management   (Create/View)
+    2. Time Tracking         (Daily logs)
+    3. Payroll Calculator    (Auto-compute)
+    4. Data Storage          (Save/Load)
 
 ## CRUD Operations
      Create: Add new employees
