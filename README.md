@@ -82,6 +82,6 @@ The code lacks:
   
 ## MO-IT103 - Computer Programming 2
 Term 3  SY 2024 - 25  Bachelor of Science in Information Technology  S1102
-Group Team Pochi - 
+Group Team Pochi
 
 
