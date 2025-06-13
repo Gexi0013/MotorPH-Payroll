@@ -57,7 +57,7 @@ The code lacks:
     
 # Payroll Processing
    Automatic Calculations:
-     + Gross Salary (Hourly rate: P142.86)
+    + Gross Salary (Hourly rate: P142.86)
     + Allowances (rice, phone, clothing)
     + Deductions (SSS, PhilHealth, Pag-IBIG, Tax)
     + Net pay calculation
