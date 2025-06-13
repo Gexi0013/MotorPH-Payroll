@@ -23,7 +23,7 @@ It has features for tracking employee attendance, government deductions, and pay
 
 # Missing Features
 The code lacks:
-    - Proper employee record managenment (create/view)
+    - Proper employee record management (create/view)
     - Data persistence (it doesn`t save records between runs)
     - Proper class structure for employees
     - Database or file storage integration
@@ -39,7 +39,7 @@ The code lacks:
      - Better organization of payroll calculations
   4. Maintained Original Functionality:
      - Keeps original time calculation logic
-     - Preserves payroll calculation fomulas
+     - Preserves payroll calculation formulas
   5. Error Handling:
      - Basic file operation error handling
      - Input validation (through more could be added)
@@ -78,6 +78,4 @@ The code lacks:
   
 ## MO-IT103 - Computer Programming 2
 Term 3  SY 2024 - 25  Bachelor of Science in Information Technology  S1102
-Group Team Pochi - 
-
-
+Group Team Pochi
