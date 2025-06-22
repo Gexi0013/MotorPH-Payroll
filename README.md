@@ -1,6 +1,6 @@
 # MotorPH-Payroll
 # MotorPH-Payroll System
-MO-IT103 | S1102 | Team Pochi - Subingsubing, G., Ramos, G., Moricilla, A., Melendrez, C., Militar, J., Sabayo, A., 
+MO-IT103 | S1102 | Team Pochi - Subingsubing, G., Ramos, G., Moricilla, A., Melendrez, C., Militar, J.,
 
 ## Overview  
 The Payroll System code created for MotorPH as part of our coursework is available in this repository.
