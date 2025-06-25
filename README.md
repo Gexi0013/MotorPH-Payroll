@@ -20,8 +20,8 @@ It has features for tracking employee attendance, government deductions, and pay
 ## Secure login system
   - Username:
   - Password:
-    
-* Employee Record Management (CRUD)
+
+## Employee Record Management (CRUD)
   - Create Employees: ID, Position, Department 		
   - Read: View all employees record
   - Update: Modify existing records
