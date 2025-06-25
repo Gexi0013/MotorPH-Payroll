@@ -47,6 +47,10 @@ The code lacks:
 
 ## New Updated Features
 
+## Secure login system
+  Username:
+  Password:
+
 * Employee Record Management (CRUD)
   - Create Employees: ID, Position, Department 		
   - Read: View all employees record
