@@ -16,6 +16,9 @@ It has features for tracking employee attendance, government deductions, payroll
 ## MotorPH Employee Application with View, Create Record Functionalities and login system.
 
 ## New Updated Features
+## Secure login system
+  - Username:
+  - Password:
 
 ## Employee Record Management (CRUD)
   - Create Employees: ID, Position, Department 		
@@ -40,10 +43,6 @@ It has features for tracking employee attendance, government deductions, payroll
   - Breakdown of earnings and deductions
   - Net pay calculation
   - Date and time stamp
-
-## Secure login system
-  - Username:
-  - Password:
 
 ## Structure Summary
   MotorPH-Payroll/
