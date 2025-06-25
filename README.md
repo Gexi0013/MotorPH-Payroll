@@ -42,8 +42,8 @@ It has features for tracking employee attendance, government deductions, payroll
   - Date and time stamp
 
 ## Secure login system
-  Username:
-  Password:
+  - Username:
+  - Password:
 
 ## Structure Summary
   MotorPH-Payroll/
