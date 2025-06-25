@@ -1,10 +1,9 @@
-# MotorPH-Payroll
 # MotorPH-Payroll System
 MO-IT103 | S1102 | Team Pochi - Subingsubing, G., Ramos, G., Moricilla, A., Melendrez, C., Militar, J.,
 
 ## Overview  
 The Payroll System code created for MotorPH as part of our coursework is available in this repository.
-It has features for tracking employee attendance, government deductions, and payroll processing.
+It has features for tracking employee attendance, government deductions, payroll processing and login system.
 
 ## Submission for MO-IT103 – Computer Programming 2
 
@@ -44,14 +43,16 @@ The code lacks:
      - Basic file operation error handling
      - Input validation (through more could be added)
 
-## MotorPH Employee Application with View and Create Record Functionalities
+## MotorPH Employee Application with View, Create Record Functionalities and login system.
 
 ## New Updated Features
 
-* Employee Record Management
-  - Create Employees: ID, Position, Department
-  - View all employees record
-  - Persistent storage to employee.dat file
+* Employee Record Management (CRUD)
+  - Create Employees: ID, Position, Department 		
+  - Read: View all employees record
+  - Update: Modify existing records
+  - Delete: Remove employees records
+  Persistent storage to employee.dat file
 
 * Enhanced Time Tracking
   - Daily Attendance: Record time-in/time-out for each workday (Mon-Fri)
@@ -71,10 +72,15 @@ The code lacks:
   - Date and time stamp
 
 ## Structure Summary
-  1. Employee Management   (Create/View)
-  2. Time Tracking         (Daily logs)
-  3. Payroll Calculator    (Auto-compute)
-  4. Data Storage          (Save/Load)
+ MotorPH-Payroll/
+  ├── src/
+  │   ├── MotorPH.java          # Main class
+  │   ├── Employee.java         # Data model
+  │   └── LoginSystem.java      # Auth system
+  ├── data/                     # Ignored in Git
+  │   ├── employees.dat
+  │   └── Payroll_Report
+  └── README.md
   
 ## MO-IT103 - Computer Programming 2
 Term 3  SY 2024 - 25  Bachelor of Science in Information Technology  S1102
