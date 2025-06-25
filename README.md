@@ -47,7 +47,7 @@ The code lacks:
 
 ## New Updated Features
 
-## Secure login system
+* Secure login system
   Username:
   Password:
 
