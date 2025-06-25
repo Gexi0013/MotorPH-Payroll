@@ -17,7 +17,7 @@ It has features for tracking employee attendance, government deductions, and pay
 ## MotorPH Employee Application with View and Create Record Functionalities
 
 ## New Updated Features
-* Secure login system
+## Secure login system
   - Username:
   - Password:
     
