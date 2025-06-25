@@ -46,30 +46,26 @@ The code lacks:
 ## MotorPH Employee Application with View, Create Record Functionalities and login system.
 
 ## New Updated Features
-
-* Secure login system
+## Secure login system
   - Username:
   - Password:
-
-* Employee Record Management (CRUD)
+## Employee Record Management (CRUD)
   - Create Employees: ID, Position, Department 		
   - Read: View all employees record
   - Update: Modify existing records
   - Delete: Remove employees records
   Persistent storage to employee.dat file
-
-* Enhanced Time Tracking
+## Enhanced Time Tracking
   - Daily Attendance: Record time-in/time-out for each workday (Mon-Fri)
   - Auto-Calculation: Computes worked hours/minutes per day.
-    
-* Payroll Processing
+## Payroll Processing
    Automatic Calculations:
     + Gross Salary (Hourly rate: P142.86)
     + Allowances (rice, phone, clothing)
     + Deductions (SSS, PhilHealth, Pag-IBIG, Tax)
     + Net pay calculation
 
-* Generates a payslip with:
+## Generates a payslip with:
   - Employee details
   - Breakdown of earnings and deductions
   - Net pay calculation
