@@ -13,15 +13,7 @@ It has features for tracking employee attendance, government deductions, payroll
 - Repository: https://github.com/Gexi0013/MotorPH-Payroll
 - Mentor Email: anunang@mmdc.mcl.edu.ph added as collaborator  
 
-## Class Diagram
-![image (1)](https://github.com/user-attachments/assets/94731670-24d5-4d55-b836-18b3aa26bc1e)
-
-
-## GUI Practice
-![Screenshot 2025-05-24 154109](https://github.com/user-attachments/assets/22912a46-2623-4954-933d-f8463541e008)
-
-
-## MotorPH Employee Application with View and Create Record Functionalities
+## MotorPH Employee Application with View, Create Record Functionalities and login system.
 
 ## New Updated Features
 
@@ -49,16 +41,20 @@ It has features for tracking employee attendance, government deductions, payroll
   - Net pay calculation
   - Date and time stamp
 
-## Structure Summary
-  1. Employee Management   (Create/View)
-  2. Time Tracking         (Daily logs)
-  3. Payroll Calculator    (Auto-compute)
-  4. Data Storage          (Save/Load)
-
 ## Secure login system
   Username:
   Password:
 
+## Structure Summary
+  MotorPH-Payroll/
+  ├── src/
+  │   ├── MotorPH.java          # Main class
+  │   ├── Employee.java         # Data model
+  │   └── LoginSystem.java      # Auth system
+  ├── data/                     # Ignored in Git
+  │   ├── employees.dat
+  │   └── Payroll_Report
+  └── README.md
   
 ## MO-IT103 - Computer Programming 2
 Term 3  SY 2024 - 25  Bachelor of Science in Information Technology  S1102
