@@ -20,32 +20,9 @@ It has features for tracking employee attendance, government deductions, payroll
 ## GUI Practice
 ![Screenshot 2025-05-24 154109](https://github.com/user-attachments/assets/22912a46-2623-4954-933d-f8463541e008)
 
-# Missing Features
-The code lacks:
-    - Proper employee record management (create/view)
-    - Data persistence (it doesn`t save records between runs)
-    - Proper class structure for employees
-    - Database or file storage integration
-
-# Key Improvements:
-  1. Employee Record Management:
-     - Create/view employee records with additional details (Position, Department)
-     - Proper employee class structure
-  2. Data Persistence:
-     - Saves employee data to file (employees.dat)
-     - Loads data when program starts
-  3. Structured Code:
-     - Better organization of payroll calculations
-  4. Maintained Original Functionality:
-     - Keeps original time calculation logic
-     - Preserves payroll calculation formulas
-  5. Error Handling:
-     - Basic file operation error handling
-     - Input validation (through more could be added)
-
 ## MotorPH Employee Application with View, Create Record Functionalities and login system.
 
-## New Updated Features
+## Features
 
 * Employee Record Management (CRUD)
   - Create Employees: ID, Position, Department 		
