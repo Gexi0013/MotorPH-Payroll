@@ -52,7 +52,7 @@ It has features for tracking employee attendance, government deductions, payroll
   - Date and time stamp
 
 ## Structure Summary
- MotorPH-Payroll/
+ #MotorPH-Payroll/
   ├── src/
   │   ├── MotorPH.java          # Main class
   │   ├── Employee.java         # Data model
