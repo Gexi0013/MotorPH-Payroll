@@ -24,8 +24,11 @@ It has features for tracking employee attendance, government deductions, payroll
 
 ## Features
 * Secure login system
-  - Username:
-  - Password:
+  - Username: 11025
+  - Password: ******
+    
+<img width="543" height="505" alt="image" src="https://github.com/user-attachments/assets/1ca5416f-162d-4727-88b1-33de1ae89f93" />
+
 
 * Employee Record Management (CRUD)
   - Create Employees: ID, Position, Department 		
